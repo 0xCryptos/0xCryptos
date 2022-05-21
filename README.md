@@ -11,6 +11,7 @@
  - Aptos ([video](https://youtu.be/I2lY4vwWwig))
  - Humanode ([video](https://youtu.be/aDXY9yifBwg))
  - StarkNet
+ - Oasys
 
 ## Finished nodes / testnets
 
