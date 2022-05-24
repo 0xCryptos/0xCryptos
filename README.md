@@ -12,6 +12,7 @@
  - Humanode ([video](https://youtu.be/aDXY9yifBwg))
  - StarkNet
  - Oasys
+ - Sei ([guide](https://github.com/OxCryptos/sei-chain/blob/master/create_validator.md))
 
 ## Finished nodes / testnets
 
