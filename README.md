@@ -20,7 +20,7 @@
  - Quai ([guide](https://teletype.in/@oxcryptos/QUAI-node), [video](https://youtu.be/n04Mrm2n9Oc))
 
 ## Other experience
- - admin of crypto community t.me/OxCryptos
+ - admin of crypto community [OxCryptos](https://t.me/OxCryptos)
  - author of https://www.youtube.com/c/OxCryptos
  - admin of OxChain (private project)
  - CTO of [metaguild.ru](https://metaguild.ru)
