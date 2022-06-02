@@ -10,7 +10,7 @@
  - SubSpace ([guide](https://lopsided-nemophila-430.notion.site/SubSpace-1c9bb77eb2c14816867d37fae6f54a47),  [video](https://youtu.be/wL9cXei0xwM))
  - Aptos ([video](https://youtu.be/I2lY4vwWwig))
  - Humanode ([video](https://youtu.be/aDXY9yifBwg))
- - StarkNet
+ - StarkNet ([guide](https://github.com/OxCryptos/StarkNet/blob/main/Install_rus.md))
  - Oasys
  - Sei ([guide](https://github.com/OxCryptos/sei-chain/blob/master/create_validator.md))
 
