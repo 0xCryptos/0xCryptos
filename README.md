@@ -13,6 +13,7 @@
  - StarkNet ([guide](https://github.com/OxCryptos/StarkNet/blob/main/Install_rus.md))
  - Oasys
  - Sei ([guide](https://github.com/0xCryptos/SEI/blob/main/README.md))
+ - GnoLand ([guide](https://github.com/0xCryptos/GnoLand/blob/main/README.md))
 
 ## Finished nodes / testnets
 
