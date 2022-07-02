@@ -14,6 +14,8 @@
  - Oasys
  - Sei ([guide](https://github.com/0xCryptos/SEI/blob/main/README.md))
  - GnoLand ([guide](https://github.com/0xCryptos/GnoLand/blob/main/README.md))
+ - Sui 
+ 
 
 ## Finished nodes / testnets
 
